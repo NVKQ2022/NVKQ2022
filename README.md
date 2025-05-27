@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-Hi, I'm [Your Name], a passionate student/developer interested in building practical and impactful software projects. This GitHub profile showcases my project experience, experiments, and learning journey in fields like [Computer Networking, Web Development, AI, IoT, etc.].
+Hi, I'm Nguyễn Việt Kỳ Quân, a passionate student/developer interested in building practical and impactful software projects. This GitHub profile showcases my project experience, experiments, and learning journey in fields like [Computer Networking, Web Development, AI, IoT, etc.].
 
 ## What You'll Find Here
 
@@ -14,9 +14,7 @@ Each repository includes a description, goals, and technologies used, so feel fr
 
 ## Contact
 
-- Email: [your.email@example.com]
-- LinkedIn: [linkedin.com/in/your-profile]
-- Website/Portfolio: [your-portfolio.com] (if any)
+- Email: nguyenvietkyquan2022@gmail.com
 
 Thanks for visiting! 
 
