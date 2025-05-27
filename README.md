@@ -1,12 +1,22 @@
+# Welcome to My GitHub!
 
+Hi, I'm [Your Name], a passionate student/developer interested in building practical and impactful software projects. This GitHub profile showcases my project experience, experiments, and learning journey in fields like [Computer Networking, Web Development, AI, IoT, etc.].
 
-# Giới thiệu
-Đây là nơi tổng hợp là lưu trữ đồ án cuối kỳ cho môn Lập trình mạng căn bản
-## Thành viên nhóm
-23521267 - Nguyễn Việt Kỳ Quân - NVKQ2022
+## What You'll Find Here
 
-23520866 - Phan Xuân Tấn Lộc - locophan
+- Personal and academic **projects**
+- Experimental **prototypes and research**
+- Web and backend **development practice**
+- AI and IoT **integrations and simulations**
+- Learning logs and **technical documentation**
 
-23521289 - Nguyễn Trường Quang -
+Each repository includes a description, goals, and technologies used, so feel free to explore and get in touch if you're interested in collaboration or feedback!
 
+## Contact
+
+- Email: [your.email@example.com]
+- LinkedIn: [linkedin.com/in/your-profile]
+- Website/Portfolio: [your-portfolio.com] (if any)
+
+Thanks for visiting! 
 
